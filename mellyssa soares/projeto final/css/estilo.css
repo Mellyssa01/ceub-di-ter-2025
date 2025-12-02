@@ -139,6 +139,11 @@ h2 {
 
 }
 
+#technology-6{
+    background-image: url(../img/logos/sql.jpeg);
+
+}
+
 
 
 
@@ -174,10 +179,14 @@ margin-bottom: 1em;
     align-items: center;
 }
 
-#about-id i {
-    color: var(--primary);
-    font-size: 6em;
-    margin-right: 0.5em;
+#about-id img {
+    width: 150px;
+    height: 170px;
+    padding: 1em;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 1em;
 }
 
 #about-description h3 {
